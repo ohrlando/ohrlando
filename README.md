@@ -1,16 +1,65 @@
-## Hi there 👋
+<table>
+<tr>
+<td align="center" width="16.6%">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="64" height="64" />
+<br>Python
+</td>
 
-<!--
-**ohrlando/ohrlando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<td align="center" width="16.6%">
+<img src="https://skillicons.dev/icons?i=ai" />
+<br>AI
+</td>
 
-Here are some ideas to get you started:
+<td align="center" width="16.6%">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="64" height="64" />
+<br>AWS
+</td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<td align="center" width="16.6%">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="64" height="64" />
+<br>Java
+</td>
+
+<td align="center" width="16.6%">
+<img src="https://skillicons.dev/icons?i=postgres" width="65" />
+<br>PostgreSQL
+</td>
+
+<td align="center" width="16.6%">
+<img src="https://skillicons.dev/icons?i=github" width="65" />
+<br>GitHub
+</td>
+</tr>
+
+<tr>
+<td align="center" width="16.6%">
+<img src="https://skillicons.dev/icons?i=linux" width="65" />
+<br>Linux
+</td>
+
+<td align="center" width="16.6%">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="64" height="64" />
+<br>Docker
+</td>
+
+<td align="center" width="16.6%">
+<img src="https://skillicons.dev/icons?i=bash" width="65" />
+<br>Bash
+</td>
+
+<td align="center" width="16.6%">
+<img src="https://skillicons.dev/icons?i=vscode" width="65" />
+<br>VS Code
+</td>
+
+<td align="center" width="16.6%">
+<img src="https://skillicons.dev/icons?i=regex" />
+<br>Regex
+</td>
+
+<td align="center" width="16.6%">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="64" height="64" />
+<br>Git
+</td>
+</tr>
+</table>
